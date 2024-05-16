@@ -1,1 +1,3 @@
 print("Aditya")
+
+print(Aditya)
