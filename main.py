@@ -1,3 +1,1 @@
 print("Aditya")
-
-print(Aditya)
